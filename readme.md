@@ -1,0 +1,1 @@
+ Hay dos, uno es una carpeta, que es la version vieja, la cual solo se pede intalar el offie 2019, el que es un fichoero zip, es la versiona ctual que nos permite hacer la instalacion de cualquier offices desde 2012 asta 2021
